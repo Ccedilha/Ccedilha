@@ -2,7 +2,7 @@
 
 <h3  align="center">I'm an information systems student</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Ccedilha&color=white&style=plastic" alt="Ccedilha" /> </p> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Ccedilha&color=lightgrey&style=plastic" alt="Ccedilha" /> </p> 
 
 - 🌱 I’m currently learning **Information systems at Centro Universitário Cidade Verde**  
  
@@ -24,8 +24,7 @@ Exploring these tecnologies
 ##
 🌍 My Social Spaces
 <div>
-
-##  
+ 
   <a href="https://www.instagram.com/cedilha0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.last.fm/pt/user/cecidilha1" target="_blank"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"></a> 
   <a href="https://open.spotify.com/user/tpe2t3bq55rx06b2ugahhf340?si=847c23e866a74f7e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
