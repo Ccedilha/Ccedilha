@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Ian Guilherme</h1>
 
-<h3  align="center">I'm an information systems student</h3>
+<h3  align="center">I'm a Software Analysis and Development student</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ccedilha&color=lightgrey&style=plastic" alt="Ccedilha" /> </p> 
 
- - 🌱 I’m currently learning **Information systems at Centro Universitário Cidade Verde**  
+ - 🌱 I’m currently learning **Software Analysis and Development at Centro Universitário Cidade Verde**  
  
  - 💬 Ask me about **Technologies, music and cinema**
  
