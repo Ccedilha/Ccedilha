@@ -1,3 +1,6 @@
+<p align=center>
+  <img width="2000" height="1520" alt="Image" src="https://github.com/user-attachments/assets/34c0d320-ebfa-4219-9a7b-c1673dced1de" />
+</p>
 <h1 align="center">Hello 👋, I'm Ian Guilherme</h1>
 
 <h3  align="center">I'm a Software Analysis and Development student</h3>
