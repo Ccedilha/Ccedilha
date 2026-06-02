@@ -1,19 +1,19 @@
-<p align=center>
-  <img width="1500" height="1000" alt="Image" src="https://github.com/user-attachments/assets/34c0d320-ebfa-4219-9a7b-c1673dced1de" />
-</p>
-<h1 align="center">Hello 👋, I'm Ian Guilherme</h1>
-
-<h3  align="center">I'm a Software Analysis and Development student</h3>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ccedilha&color=lightgrey&style=plastic" alt="Ccedilha" /> </p> 
+<p align=center>
+  <img width="850" alt="Image" src="https://github.com/user-attachments/assets/34c0d320-ebfa-4219-9a7b-c1673dced1de" />
+</p>
+<h2 align="center">About Me</h2>
+<div align="center">
+  <img align="right" width="190" src="https://github.com/user-attachments/assets/fcc1dadb-3b71-459e-af44-3317408a36cb"/>
 
- - 🌱 I’m currently learning **Software Analysis and Development at Centro Universitário Cidade Verde**  
- 
- - 💬 Ask me about **Technologies, music and cinema**
- 
- - 📫 Contact me at email: **ianguilhermepenha@gmail.com**
+  <p>
+  Hello! I'm <b>Ian Guilherme</b>, a Systems Analysis and Development graduate and aspiring Full-Stack Developer.
+  I have a strong interest in <b>Data Structures and Algorithms</b>, with a focus on <b>Full-Stack Development</b>. I enjoy movies, books, music, technology and art in general.
+  </p>
+</div>
 
 ##
+
 <h3 align= center>Exploring these tecnologies</h3> 
 <div style="display: inline_block"><br>
 <p align=center>
@@ -40,8 +40,3 @@
 </div>
 
 ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ccedilha&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ccedilha&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ccedilha&theme=transparent" alt="Ccedilha" /></p>
