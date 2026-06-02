@@ -13,7 +13,6 @@
 </div>
 
 ##
-
 <h3 align= center>Exploring these tecnologies</h3> 
 <div style="display: inline_block"><br>
 <p align=center>
