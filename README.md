@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ccedilha&color=lightgrey&style=plastic" alt="Ccedilha" /> </p> 
 <p align=center>
-  <img width="850" alt="Image" src="https://github.com/user-attachments/assets/34c0d320-ebfa-4219-9a7b-c1673dced1de" />
+  <img width="750" alt="Image" src="https://github.com/user-attachments/assets/34c0d320-ebfa-4219-9a7b-c1673dced1de" />
 </p>
 <h2 align="center">About Me</h2>
 <div align="center">
