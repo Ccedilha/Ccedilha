@@ -4,7 +4,6 @@
 </p>
 <h2 align="center">About Me</h2>
 <div align="center">
-  <img align="right" width="190" src="https://github.com/user-attachments/assets/fcc1dadb-3b71-459e-af44-3317408a36cb"/>
 
   <p>
   Hello! I'm <b>Ian Guilherme</b>, a Systems Analysis and Development graduate and aspiring Full-Stack Developer.
@@ -12,8 +11,8 @@
   </p>
 </div>
 
-##
-<h3 align= center>Exploring these tecnologies</h3> 
+___
+<h3 align= center>Exploring these tecnologies</h3>
 <div style="display: inline_block"><br>
 <p align=center>
   <img align="center" alt="Ian_HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -26,7 +25,7 @@
 </p>
   </div>
   
-##
+___
 <h3 align= center>🌍 My Social Spaces</h3>
 <div>
  <p align= center>
